@@ -1,0 +1,1 @@
+Dashboard is a place where you can create your own dashboard.
